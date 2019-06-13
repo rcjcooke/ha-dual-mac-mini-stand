@@ -5,7 +5,7 @@ Home Automation: A 3D printable dual mac-mini stand
 
 This is a simple single part print for a stand to hold two post 2011 Apple mac minis. I've added a little wriggle room (1mm) for the macs so no post-processing needs to be done on the print.
 
-This has been printed on my FlashForge Inventor in PLA and prints easily with no need for any additional supports, rafts of brims. As it's got a pretty large base I recommend using the anti-freeze trick to get it off the print bed.
+This has been printed on my FlashForge Inventor in PLA and prints easily with no need for any additional supports, rafts or brims. As it's got a pretty large base I recommend using the anti-freeze trick to get it off the print bed.
 
 Happy printing!
 
